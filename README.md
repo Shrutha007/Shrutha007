@@ -48,14 +48,6 @@ EYE PROTECTION ALERT SYSTEM
 • Enhanced System Efficiency with threading for continuous monitoring without UI lag.
 
 
-## 📈 GitHub Stats
-
-\[GitHub Stats Card]
-\[Top Languages Card]
-
-(These cards display automatically on GitHub profile pages when linked through the appropriate URL.)
-
----
 
  📫 Connect With Me
 
